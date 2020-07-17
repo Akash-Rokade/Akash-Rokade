@@ -1,4 +1,4 @@
-## Hello World! <img src="https://raw.githubusercontent.com/DevAkash99/DevAkash99/master/gifs/Hi.gif" width="30px"></h2>
+## Hello World! <img src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-vector-handshake-icon-png-image_4165493.jpg" width="30px"></h2>
 
 <a href="https://twitter.com/The_Akash_">
   <img align="left" alt="Akash's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
