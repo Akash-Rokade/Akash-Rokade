@@ -23,7 +23,7 @@
 
 ### Glad to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=DevAkash99.DevAkash99)
 
-I'm a final year student pursuing Bachelors's in Computer Engineering💻 <br>🎓 from JSPM's Icoer, Pune. <br>🏛. To work in an environment that will help me in contributing toward the goal of organization and continuously upgrade my knowledge.
+I'm Engineer. <br>🏛. To work in an environment that will help me in contributing toward the goal of organization and continuously upgrade my knowledge.
 .
 
 ### More about me...
