@@ -38,14 +38,16 @@ I'm Engineer. <br>🏛. To work in an environment that will help me in contribut
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=DevAkash99&show_icons=true&hide_border=true)
 
-### Skill...
+### Skills...
 
-- - AWS 💻.
-- - Docker 💻.
-- - Kubernetes 💻.
-- - Terraform 💻.
-- - Ansible 💻.
-- - Jenkins 💻.
+- - Python .
+- - Linux .
+- - AWS .
+- - Docker .
+- - Kubernetes .
+- - Terraform .
+- - Ansible .
+- - Jenkins .
 - 
 
 ⭐️ From [DevAkash99](https://github.com/DevAkash99)
