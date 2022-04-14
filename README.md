@@ -3,13 +3,13 @@
 <a href="https://twitter.com/The_Akash_">
   <img align="left" alt="Akash's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/akashrokade/>
+<a href="https://www.linkedin.com/in/rokadeakash/>
   <img align="left" alt="Akash's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/DevAkash99">
   <img align="left" alt="Akash's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.instagram.com/_akash_rokade/">
+<a href="https://www.instagram.com/akash_rokade/">
   <img align="left" alt="Akash's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/akash.rokade.7334/">
