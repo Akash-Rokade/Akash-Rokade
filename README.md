@@ -38,7 +38,15 @@ I'm a final year student pursuing Bachelors's in Computer Engineering💻 <br>�
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=DevAkash99&show_icons=true&hide_border=true)
 
+### Skill...
 
+- - AWS 💻.
+- - Docker 💻.
+- - Kubernetes 💻.
+- - Terraform 💻.
+- - Ansible 💻.
+- - Jenkins 💻.
+- 
 
 ⭐️ From [DevAkash99](https://github.com/DevAkash99)
 
