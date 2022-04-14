@@ -28,10 +28,10 @@ I'm a final year student pursuing Bachelors's in Computer Engineering💻 <br>�
 
 ### More about me...
 
-- 🔭 I’m currently working on Djagno, Node.js, React, MongoDB, etc 💻.
+- 🔭 I’m currently working on Cloud and Devops 💻.
 - 👯 I’m looking to collaborate on any Open Source Project involving Web Developement / Android Developement.
 - 📫 How to reach me: akashdrokade@gmail.com | [LinkedIn](https://www.linkedin.com/in/akashrokade/) | [Twitter](https://twitter.com/The_Akash_) 
-- 💻 I have worked on C++, Java, Python, HTML/CSS,JavaScript MySQL, MongoDB,  etc.
+- 💻 I have worked on Python,JavaScript, React etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
 
 ### Show some ❤️ by starring some of the repositories!
