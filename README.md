@@ -23,8 +23,7 @@
 
 ### Glad to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=Akash-Rokade.Akash-Rokade)
 
-I'm Engineer. <br>🏛. To work in an environment that will help me in contributing toward the goal of organization and continuously upgrade my knowledge.
-.
+I'm Engineer. <br>🏛. Automating world
 
 ### More about me...
 
