@@ -21,7 +21,7 @@
 
 <br />
 
-### Glad to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=DevAkash99.DevAkash99)
+### Glad to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=Akash-Rokade.Akash-Rokade)
 
 I'm Engineer. <br>🏛. To work in an environment that will help me in contributing toward the goal of organization and continuously upgrade my knowledge.
 .
@@ -36,7 +36,7 @@ I'm Engineer. <br>🏛. To work in an environment that will help me in contribut
 
 ### Show some ❤️ by starring some of the repositories!
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=DevAkash99&show_icons=true&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Akash-Rokade&show_icons=true&hide_border=true)
 
 ### Skills...
 
@@ -50,5 +50,5 @@ I'm Engineer. <br>🏛. To work in an environment that will help me in contribut
 - - Jenkins .
 - 
 
-⭐️ From [DevAkash99](https://github.com/DevAkash99)
+⭐️ From [Akash Rokade](https://github.com/Akash-Rokade)
 
