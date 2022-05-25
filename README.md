@@ -29,7 +29,7 @@ I'm Engineer. <br>🏛. Automating world
 
 - 🔭 I’m currently working on Cloud and Devops 💻.
 - 👯 I’m looking to collaborate on any Open Source Project involving Web Developement / Android Developement.
-- 📫 How to reach me: akashdrokade@gmail.com | [LinkedIn](https://www.linkedin.com/in/akashrokade/) | [Twitter](https://twitter.com/The_Akash_) 
+- 📫 How to reach me: akashdrokade@gmail.com | [LinkedIn](https://www.linkedin.com/in/rokadeakash) | [Twitter](https://twitter.com/The_Akash_) 
 - 💻 I have worked on Python,JavaScript, React etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
 
